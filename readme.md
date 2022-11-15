@@ -1,1 +1,1 @@
-# QPK is a package format primarily used in web-based applications.
+# RadSH is a package format primarily used in web-based applications.
