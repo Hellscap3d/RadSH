@@ -1,1 +1,1 @@
-# RadSH is a package format primarily used in web-based applications.
+# RadSH (pronounced "Radish") is a package format primarily used in web-based applications.
